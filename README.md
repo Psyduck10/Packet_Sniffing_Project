@@ -54,7 +54,7 @@ To perform packet sniffing in a virtual lab using appropriate tools and extract 
 | certifiedhacker.com      | FTP      | `test:testqwerty`             | No encryption on FTP   |
 | testphp.vulnweb.com      | HTTP     | `test:test`                   | No SSL/TLS on POST     |
 
-Screenshots are available in the [`screenshots/`](./screenshots) directory.
+Screenshots are available in the [`screenshots/`](./Screenshots) directory.
 
 ## ⚠️ Analysis
 
