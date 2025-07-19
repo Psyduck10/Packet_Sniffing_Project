@@ -14,7 +14,7 @@ To perform packet sniffing in a virtual lab using appropriate tools and extract 
 - Sniffing Tool: Wireshark
 - Virtualization Platform: VMware
 - Network Type: Bridged
-- Target Websites:
+- Target Websites: **using systems in Virtual Machines on same network**
   - [`certifiedhacker.com`](http://certifiedhacker.com)
   - [`testphp.vulnweb.com`](http://testphp.vulnweb.com)
 
@@ -49,10 +49,10 @@ To perform packet sniffing in a virtual lab using appropriate tools and extract 
 
 🔍 Observations
 
-| Target Site              | Protocol | Credentials Captured         | Security Risk         |
-|--------------------------|----------|-------------------------------|------------------------|
-| certifiedhacker.com      | FTP      | `test:testqwerty`             | No encryption on FTP   |
-| testphp.vulnweb.com      | HTTP     | `test:test`                   | No SSL/TLS on POST     |
+| Target Site using Same System              | Protocol | Credentials Captured         | Security Risk         |
+|--------------------------------------------|----------|-------------------------------|------------------------|
+| certifiedhacker.com                        | FTP      | `test:testqwerty`             | No encryption on FTP   |
+| testphp.vulnweb.com                        | HTTP     | `test:test`                   | No SSL/TLS on POST     |
 
 Screenshots are available in the [`screenshots/`](./Screenshots) directory.
 
