@@ -83,4 +83,4 @@ This project proves that transmitting login credentials over unencrypted channel
 📧 Author
 
 Shubham Shah  
-Cybersecurity Enthusiast | [LinkedIn] (https://www.linkedin.com/in/shubhamshah11/)
+CEH | CCT Student | [LinkedIn] (https://www.linkedin.com/in/shubhamshah11/)
