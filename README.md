@@ -77,7 +77,7 @@ This project proves that transmitting login credentials over unencrypted channel
 
 ⚠️ Disclaimer
 
-> This experiment was conducted in a **controlled lab environment** strictly for educational purposes.  
+> This experiment was conducted in a **controlled lab environment** strictly for educational purposes. I have caputured the packets only of my network for credential.  
 > **Do NOT use packet sniffing techniques on unauthorized or live production networks.**
 
 📧 Author
