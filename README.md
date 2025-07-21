@@ -2,7 +2,7 @@
 
 📘 Project Overview
 
-This project demonstrates **packet sniffing** and **plaintext credential capture** in a safe, isolated lab environment as part of a cybersecurity assignment. The goal is to highlight the security risks of transmitting unencrypted credentials using tools like **Wireshark**.
+This project demonstrates **packet sniffing** and **plaintext credential capture** in a safe, isolated lab environment as part of a cybersecurity assignment. I have created two virtual machines one is attacker and one is victim. The goal is to highlight the security risks of transmitting unencrypted credentials using tools like **Wireshark**.
 
 🎯 Objective
 
