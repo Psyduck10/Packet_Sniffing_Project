@@ -2,7 +2,7 @@
 
 📘 Project Overview
 
-This project demonstrates **packet sniffing** and **plaintext credential capture** in a safe, isolated lab environment as part of a cybersecurity assignment. I have created two virtual machines one is attacker and one is victim. The goal is to highlight the security risks of transmitting unencrypted credentials using tools like **Wireshark**.
+This project demonstrates **packet sniffing** and **plaintext credential capture** in a safe, isolated lab environment as part of a cybersecurity assignment. To simulate a real-world attack scenario, I created a virtual lab with two machines: one acting as the attacker (Kali Linux) and the other as the victim (Windows 10). The goal was to highlight the security risks of transmitting unencrypted credentials using tools like Wireshark.
 
 🎯 Objective
 
@@ -14,7 +14,7 @@ To perform packet sniffing in a virtual lab using appropriate tools and extract 
 - Sniffing Tool: Wireshark
 - Virtualization Platform: VMware
 - Network Type: Bridged
-- Target Websites: **using systems in Virtual Machines on same network**
+- Target Websites: **(accessed within the same virtual network)**
   - [`certifiedhacker.com`](http://certifiedhacker.com)
   - [`testphp.vulnweb.com`](http://testphp.vulnweb.com)
 
@@ -77,8 +77,8 @@ This project proves that transmitting login credentials over unencrypted channel
 
 ⚠️ Disclaimer
 
-> This experiment was conducted in a **controlled lab environment** strictly for educational purposes. I have caputured the packets only of my network for credential.  
-> **Do NOT use packet sniffing techniques on unauthorized or live production networks.**
+> This experiment was conducted in a **controlled lab environment** strictly for educational purposes. I captured packets only from machines within my virtual network.  
+> **Do NOT use packet sniffing techniques on unauthorized or live production networks or public networks.**
 
 📧 Author
 
